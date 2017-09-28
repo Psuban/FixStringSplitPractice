@@ -1,0 +1,6 @@
+C:\Users\spurushothmakumar\OneDrive - Euromoney Institutional Investor PLC\CodePractive\StringSplitFIXPractive\StringSplitFIXPractive\bin\Debug\StringSplitFIXPractive.exe.config
+C:\Users\spurushothmakumar\OneDrive - Euromoney Institutional Investor PLC\CodePractive\StringSplitFIXPractive\StringSplitFIXPractive\bin\Debug\StringSplitFIXPractive.exe
+C:\Users\spurushothmakumar\OneDrive - Euromoney Institutional Investor PLC\CodePractive\StringSplitFIXPractive\StringSplitFIXPractive\bin\Debug\StringSplitFIXPractive.pdb
+C:\Users\spurushothmakumar\OneDrive - Euromoney Institutional Investor PLC\CodePractive\StringSplitFIXPractive\StringSplitFIXPractive\obj\Debug\StringSplitFIXPractive.csprojResolveAssemblyReference.cache
+C:\Users\spurushothmakumar\OneDrive - Euromoney Institutional Investor PLC\CodePractive\StringSplitFIXPractive\StringSplitFIXPractive\obj\Debug\StringSplitFIXPractive.exe
+C:\Users\spurushothmakumar\OneDrive - Euromoney Institutional Investor PLC\CodePractive\StringSplitFIXPractive\StringSplitFIXPractive\obj\Debug\StringSplitFIXPractive.pdb
