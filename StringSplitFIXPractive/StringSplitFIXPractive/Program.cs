@@ -17,9 +17,12 @@ namespace StringSplitFIXPractive
 
         static void Main(string[] args)
         {
-            Attemp1 attempt1 = new Attemp1();
-            attempt1.StringDelimeterExercise1();
+            //Attemp1 attempt1 = new Attemp1();
+            //attempt1.StringDelimeterExercise1();
+            Attempt2 attempt2 = new Attempt2();
+            attempt2.StringDelimeterExercise2();
         }
-        }
+
     }
+}
 
