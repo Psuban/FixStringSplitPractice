@@ -7,6 +7,6 @@ C:\Users\spurushothmakumar\OneDrive - Euromoney Institutional Investor PLC\CodeP
 C:\GitHub\FixStringSplitPractice\StringSplitFIXPractive\StringSplitFIXPractive\bin\Debug\StringSplitFIXPractive.exe.config
 C:\GitHub\FixStringSplitPractice\StringSplitFIXPractive\StringSplitFIXPractive\bin\Debug\StringSplitFIXPractive.exe
 C:\GitHub\FixStringSplitPractice\StringSplitFIXPractive\StringSplitFIXPractive\bin\Debug\StringSplitFIXPractive.pdb
-C:\GitHub\FixStringSplitPractice\StringSplitFIXPractive\StringSplitFIXPractive\obj\Debug\StringSplitFIXPractive.csprojResolveAssemblyReference.cache
 C:\GitHub\FixStringSplitPractice\StringSplitFIXPractive\StringSplitFIXPractive\obj\Debug\StringSplitFIXPractive.exe
 C:\GitHub\FixStringSplitPractice\StringSplitFIXPractive\StringSplitFIXPractive\obj\Debug\StringSplitFIXPractive.pdb
+C:\GitHub\FixStringSplitPractice\StringSplitFIXPractive\StringSplitFIXPractive\obj\Debug\StringSplitFIXPractive.csprojResolveAssemblyReference.cache

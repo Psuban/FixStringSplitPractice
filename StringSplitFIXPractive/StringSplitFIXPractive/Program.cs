@@ -19,8 +19,11 @@ namespace StringSplitFIXPractive
         {
             //Attemp1 attempt1 = new Attemp1();
             //attempt1.StringDelimeterExercise1();
-            Attempt2 attempt2 = new Attempt2();
-            attempt2.StringDelimeterExercise2();
+            //Attempt2 attempt2 = new Attempt2();
+            //attempt2.StringDelimeterExercise2();
+            BasicExercises be = new BasicExercises();
+            be.RunAllExercises();
+            Console.Read();
         }
 
     }
